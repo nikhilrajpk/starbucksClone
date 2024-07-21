@@ -1,0 +1,1295 @@
+/* main part start */
+
+.hero-sec{
+    width: 100%;
+    height: 8rem;
+    margin-top: 8rem;
+    background-color: #1e3932;
+    display: flex;
+    justify-content:space-between;
+    padding: 0 10rem;
+   
+ }
+ .hero-sec-name{
+    width: fit-content;
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: "Oxygen", sans-serif !important;
+    font-weight: 400;
+    margin-top: 2.3rem;
+    cursor: pointer;
+ }
+ .hero-sec-but{
+   flex-basis: 13rem;
+    height: 4rem;
+    font-size: 1.2rem;
+    color: #fff;
+    font-family: "Oxygen", Helvetica, sans-serif !important;
+    font-weight: 400;
+    display: block;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 5rem;
+    margin-top: 2rem;
+    padding: 1.3rem;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+ }
+ 
+ .hero-sec-but:hover{
+    border-color: #00754a;
+ }
+
+ /* section-1 start */
+
+
+.section-1{
+    height: 22rem;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    background-color: #edebe9;
+    margin: 3rem 8rem;
+    box-shadow: 1px 0 2px ;
+    border-radius: 1rem;
+}
+.section-1-img{
+    width: 12rem;
+    height: 15rem;
+    background-image: url(../starB-img/Dashboard_banner_side_image1_2_60b8699215.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin: 3rem 0;
+}
+.section-1-ul{
+    margin-left: 2rem;
+    margin-bottom: 6rem;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #1e3932;
+    line-height: 2.5rem;
+    cursor: pointer;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-1-ul h5{
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+.section-1-but{
+    display: block;
+    margin: 12rem 6rem 2rem 22rem;
+    height: 5rem;
+    width: 17rem;
+    text-align: center;
+    border-radius: 17rem;
+    cursor: pointer;
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 600;
+    font-family: "Oxygen", sans-serif !important;
+    background-color: #00754a;
+    transition: all ease-in-out 200ms;
+}
+.section-1-but:hover{
+   opacity: .9;
+}
+
+/* section-2 start */
+
+.section-2{
+    height: 22rem;
+    margin: 10rem 8rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.section-2-in{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem 2rem;
+    height: 40rem;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.section-2-text{
+    flex-basis: 100%;
+    height: 4rem;
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #1e3932;
+    font-family: "Oxygen", sans-serif !important;
+    padding-left: .9rem;
+}
+.section-2-in img{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+}
+
+.section-2-in-img-1{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-1 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in-img-2{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-2 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in-img-3{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-3 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in-img-4{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-4 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in-img-5{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-5 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in-img-6{
+    width: 13rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.section-2-in-img-6 img:hover{
+    border: 2px solid #00754a;
+}
+
+.section-2-in h5{
+    font-size: 1.6rem;
+    font-weight: 600;
+    font-family: "Oxygen", sans-serif !important;
+}
+
+
+
+.section-2-img-1:hover{
+    border: 2px solid #00754a;
+}
+.section-2-img-2{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+    background-image: url(../starB-img/Drinks.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00754a;
+    transition: all ease-in-out 100ms;
+}
+.section-2-img-2:hover{
+    border: 2px solid #00754a;
+}
+.section-2-img-3{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+    background-image: url(../starB-img/Food.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00754a;
+    transition: all ease-in-out 100ms;
+}
+.section-2-img-3:hover{
+    border: 2px solid #00754a;
+}
+.section-2-img-4{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+    background-image: url(../starB-img/Merchandise.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00754a;
+    transition: all ease-in-out 100ms;
+}
+.section-2-img-4:hover{
+    border: 2px solid #00754a;
+}
+.section-2-img-5{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+    background-image: url(../starB-img/CoffeeAtHome.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00754a;
+    transition: all ease-in-out 100ms;
+}
+.section-2-img-5:hover{
+    border: 2px solid #00754a;
+}
+.section-2-img-6{
+    width: 11rem;
+    height: 11rem;
+    border-radius: 11rem;
+    background-image: url(../starB-img/ReadyToEat.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #00754a;
+    transition: all ease-in-out 100ms;
+}
+.section-2-img-6:hover{
+    border: 2px solid #00754a;
+}
+
+
+
+/* section-3 start */
+
+.section-3{
+    width: 100%;
+    height: 32rem;
+    background-color: #edebe9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.section-3-up{
+    display: flex;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0 0 0 8rem;
+}
+.section-3-text{
+    flex-basis: 80%;
+    height: 4rem;
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #1e3932;
+    font-family: "Oxygen", sans-serif !important;
+    padding-left: .9rem;
+    margin-top: 2rem;
+}
+.section-3-up button{
+    flex-basis: 13rem;
+    margin-top: 2rem;
+    height: 4rem;
+    font-size: 1.2rem;
+    color: #00754a;
+    font-family: "Oxygen", Helvetica, sans-serif !important;
+    font-weight: 600;
+    text-align: end;
+    cursor: pointer;
+}
+.section-3-greyleaf{
+    width: 7rem;;
+    margin: 0 0;
+}
+
+.section-3-down{
+    display: flex;
+    margin: 1rem 5rem;
+    flex-basis: 100%;
+    height: 20rem;
+    justify-content: space-evenly;
+}
+.section-3-card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 32rem;
+    height: 15rem;
+    padding: 2rem 0 4rem 1rem;
+    background-color: #edebe9;
+    position: relative;
+    border-radius: 1rem;
+    box-shadow: 0 0 1px ;
+    cursor: pointer;
+}
+.section-3-card-img-1{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(../starB-img/cappuccino.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 1rem;
+    background-color: #1e3932;
+}
+.section-3-card-img-2{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(../starB-img/signature-hot-choc.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 1rem;
+    background-color: #1e3932;
+}
+.section-3-card-img-3{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(../starB-img/vanila-milkshake.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 1rem;
+    background-color: #1e3932;
+}
+.section-3-card-text{
+    flex-basis: 60%;
+    height: 7rem;
+    padding-top: 1rem;
+    margin-left: 1rem;
+}
+.section-3-card-text-veg{
+    width: 2rem;
+    height: 2rem;
+    background-image: url(../starB-img/veg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section-3-card-text h5{
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-3-card-text h6{
+    color: #00754a;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-3-card-price{
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #000;
+    width: 9rem;
+    height: 4rem;
+    margin-top: .8rem;
+}
+.section-3-card-but{
+    display: block;
+    height: 3rem;
+    width: 10rem;
+    text-align: center;
+    border-radius: 10rem;
+    cursor: pointer;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: "Oxygen", sans-serif !important;
+    background-color: #00754a;
+    transition: all ease-in-out 200ms;
+    position: absolute;
+    top:11rem;
+    right: 2rem;
+}
+.section-3-card-but:hover{
+    background-color: #1e3932;
+}
+
+/* section 4 start */
+
+.section-4{
+    display: flex;
+    flex-basis: 100%;
+    flex-wrap: wrap;
+    height: 48rem;
+    margin-top: 5rem;
+    background-color: #edebe9;
+}
+.section-4-up{
+    display: flex;
+    flex-basis: 90%;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0 8rem 0 8rem;
+    height: 5rem;
+    align-items: center;
+}
+.section-4-up-text{
+    flex-basis: 80%;
+    height: 4rem;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #1e3932;
+    font-family: "Oxygen", sans-serif !important;
+    padding-left: .9rem;
+    margin-top: 2rem;
+}
+.section-4-up a{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #00754a;
+    margin-top: 2rem;
+    display: block;
+    font-family: "Oxygen", sans-serif !important;
+    cursor: pointer;
+}
+.section-4-down{
+    display: flex;
+    flex-basis: 100%;
+    flex-direction: column;
+    margin: 0 8rem 0 8rem;
+    height: 35rem;
+    border-radius: 1rem;
+    background-image: url(../starB-img/coffeeBruwing.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #1e3932;
+    cursor: pointer;
+    position: relative;
+    transition: all ease-in-out 200ms;
+}
+.section-4-down-coffee{
+    width: 100%;
+    height: 5rem;
+    color: #00754a;
+    margin-top: 1rem;
+    padding: 2rem 0 0 2rem;
+    z-index: 1;
+}
+.section-4-down-coffee p{
+    display: block;
+    width: fit-content;
+    padding: .5rem;
+    font-size: 1rem;
+    font-weight: 900;
+    border-radius: .8rem;
+    background-color: #fff;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-4-down-text{
+    width: fit-content;
+    height: 10rem;
+    color: #fff;
+    margin-top: 8rem;
+    z-index: 1;
+}
+.section-4-down-text h5{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    margin: 2rem 2rem;
+    line-height: 4rem;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-4-down-text p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 2rem 2rem;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-4-down button{
+    display: block;
+    width: 20rem;
+    height: 4rem;
+    border-radius: 4rem;
+    background-color: #fff;
+    color: #000;
+    margin: 3rem 2rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 900;
+    font-family: "Oxygen", sans-serif !important;
+    z-index: 1;
+}
+.dark-overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color:#000000bd;
+    border-radius: 1rem;
+    opacity: 0.5;
+    transition: all ease-in-out 300ms;
+}
+.section-4-down:hover .dark-overlay{
+    opacity: 9;
+}
+
+/* about section start */
+
+.section-about{
+    width: 100%;
+    height: 80rem;
+    background-color: #0e382c;
+    color: #bbb;
+    padding: 8rem 8rem;
+    line-height: 1.5;
+}
+.section-about-in{
+    display: flex;
+    justify-content: space-between;
+}
+.section-about-in ul{
+    line-height: 6rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-family: "Oxygen", sans-serif !important;
+}
+.section-about-in ul li{
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+}
+.section-about-in ul li:hover{
+    color: #11ac83;
+}
+.about-head-text{
+    font-size: large;
+    font-weight: bold;
+    color: #fff;
+}
+.section-about-social-media{
+    display: flex;
+    flex-wrap: wrap;
+    width: 13rem;
+    height: 10rem;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.section-about-download-device{
+    cursor: pointer;
+}
+
+/* media query */
+/*
+@media screen and (max-width:600px) {
+    .hero-sec{
+        margin-top: 31.3rem;
+       
+    }
+    
+    .section-1{
+        margin: 3rem 4rem;
+        height: 45rem;
+        flex-wrap: wrap;
+    }
+    .section-1-but{
+        margin: 0 6rem 4rem 22rem;
+    }
+    .section-2{
+        margin: 4rem 4rem 4rem;
+        height: 40rem;
+    }
+    .section-3{
+        margin: 3rem 0;
+        height: 70rem;
+    }
+    .section-3-down{
+        flex-wrap: wrap;
+        height: 60rem;
+        margin-bottom: 20rem;
+    }
+    .section-3-card{
+       margin-top: 2rem;
+    }
+    .section-4{
+        height: 60rem;
+    }
+    .section-4-down{
+        margin: 4rem 4rem;
+        height: 38rem;
+    }
+    .section-4-down button{
+        margin: 9rem 0 2rem 9rem;
+    }
+    .section-4-up a{
+        margin: 9rem 0 0 7rem;
+    }
+
+    .section-about{
+       
+        height: 30rem;
+       
+    }
+    .section-about-in{
+        
+        flex-wrap: wrap;
+    }
+    .section-about-in ul{
+        display: none;
+    }
+    .section-about-in, .about-head-text{
+        visibility: inherit;
+        margin-left: 1rem;
+    }
+    .about-head-text{
+        align-self: flex-start;
+    }
+    .section-about-social-media{
+        width: 15rem;
+    }
+    
+}    */
+
+
+
+@media screen and (max-width: 1024px){
+    .hero-sec{
+        margin-top: 15rem;
+    }
+    .section-1{
+        min-width: 90%;
+        margin-left: 4rem;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 1rem 4rem 0;
+    }
+    .section-2{
+        margin: 6rem 8rem 4rem 8rem;
+        height: 30rem;
+    }
+    .section-2-in{
+        width: 100%;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+    .section-2-img{
+        margin-right: 1rem;
+    }
+    .section-3-down{
+        column-gap: 1rem;
+        margin-left: 2.5rem;
+    }
+    .section-3-card{
+        width: 23rem;
+        height: 20rem;
+        margin-top: -1rem;
+    }
+    .section-3-card-text{
+        margin: -10rem 0 0 10.5rem;
+    }
+    .section-3-card-but{
+        margin: 2rem 0 0 0;
+    }
+    .section-about{
+        height: 33rem;
+    }
+    .section-about-in{
+        max-width: 768px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 840px){
+    .section-2-in{
+        
+       
+        margin: 0rem -15rem 4rem 0rem;
+        column-gap: 3rem;
+    }
+    
+}
+
+@media screen and (max-width: 768px){
+    .section-1{
+        max-width: 640px;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 1rem 4rem 0;
+    }
+    .section-2{
+        margin: 6rem 8rem 4rem 14rem;
+        height: 40rem;
+    }
+    .section-2-in{
+        width: 100%;
+        flex-wrap: wrap;
+        column-gap: 4rem;
+    }
+    .section-2-img{
+        
+        width: 10rem;
+    }
+    .section-3-down{
+        column-gap: 1rem;
+        margin-left: 1rem;
+    }
+    .section-3-card{
+        width: 20rem;
+        height: 20rem;
+        margin-top: -1rem;
+    }
+    .section-3-card-text{
+        margin: -10rem 0 0 10.5rem;
+    }
+    .section-3-card-but{
+        margin: 2rem 0 0 0;
+    }
+    .section-about{
+        height: 33rem;
+    }
+    .section-about-in{
+        max-width: 768px;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2rem;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .hero-sec-but{
+        margin-top: 3rem;
+    }
+    .section-1{
+        margin: 3rem 4rem;
+        height: 45rem;
+        flex-wrap: wrap;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 0rem 4rem 15rem;
+    }
+    .section-2{
+        margin: 6rem 0rem 4rem;
+        height: 45rem;
+    }
+    .section-2-in{
+        width: 63rem;
+        flex-wrap: wrap;
+        column-gap: 1rem;
+        margin-right: 2rem;
+        padding-left: 5rem;
+    }
+    .section-2-img{
+        margin-right: 4rem;
+        width: 9rem;
+    }
+    .section-2-img-1{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-2-img-2{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-2-img-3{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-2-img-4{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-2-img-5{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-2-img-6{
+        width: 10rem;
+        height: 10rem;
+    }
+    .section-3{
+        margin: 6rem 0 19rem;
+        height: 77rem;
+    }
+    .section-3-down{
+        flex-wrap: wrap;
+        height: 60rem;
+        margin-bottom: 20rem;
+    }
+    .section-3-card{
+       margin-top: 2rem;
+       margin-left: 3rem;
+       width: 32rem;
+
+    }
+    .section-4{
+        height: 60rem;
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+    .section-4-up{
+        margin: 0 2rem 0 3rem;
+    }
+   
+    .section-4-down{
+        margin: 4rem 4rem;
+        height: 38rem;
+    }
+    .section-4-down button{
+        margin: 9rem 0 2rem 9rem;
+    }
+    .section-4-up a{
+        margin: 9rem 0 0 7rem;
+    }
+
+    .section-about{
+        margin-top: 4rem;
+        height: 30rem;
+       
+    }
+    .section-about-in{
+        max-width: 475px;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 1rem;
+    }
+    .section-about-in label{
+        font-size: 1.3rem
+    }
+    .about-head-text{
+        font-size: 1.3rem;
+        width: 20rem;
+    }
+    .section-about-download-device{
+        width: 15rem;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+    
+    
+}  
+
+
+@media screen and (max-width:426px) {
+    .hero-sec{
+        margin-top: 12rem;
+        column-gap: 4rem;
+    }
+    .hero-sec-name{
+        margin-left: -6rem;
+    }
+    .hero-sec-but{
+        width: 10rem;
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .section-1{
+        margin: 3rem 2rem;
+        height: 50rem;
+        flex-wrap: wrap;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 1rem 4rem 10rem;
+    }
+    .section-2{
+        margin: 4rem 0rem 2rem 0rem;
+        height: 65rem;
+        row-gap: 0;
+    }
+    .section-2-in{
+        margin-top: -8rem;
+    }
+    .section-3{
+        margin: 2rem 0;
+        height: 87rem;
+        width: 100%;
+    }
+    .section-3-up{
+        margin-left: 0;
+    }
+    .section-3-down{
+        flex-wrap: wrap;
+        height: 60rem;
+        margin-bottom: 20rem;
+    }
+    .section-3-card{
+       margin-top: 2rem;
+       margin-left: 1rem;
+       width: 25rem;
+
+    }
+    .section-4{
+        height: 65rem;
+        margin-top: 4rem;
+    }
+    .section-4-up{
+        margin: 0 2rem 0 3rem;
+    }
+   
+    .section-4-down{
+        margin: 6rem 2rem 0;
+        height: 38rem;
+        width: 28rem;
+    }
+    .section-4-down button{
+        margin: 9rem 0 2rem 5rem;
+    }
+    .section-4-up a{
+        margin: 9rem 0 0 7rem;
+    }
+
+    .section-about{
+       margin-top: 2rem;
+        height: 35rem;
+       
+    }
+    .section-about-in{
+        
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 0;
+        height: 30rem;
+        margin-top: -3rem;
+    }
+    .section-about-in label{
+        font-size: 1.1rem;
+        margin-right: 1rem;
+    }
+    .about-head-text{
+        font-size: 1.1rem;
+        width: 20rem;
+    }
+    .section-about-logo{
+        height: 3rem;
+        width: 100%;
+    }
+    .section-about-logo img{
+        width: 3rem;
+    }
+    .section-about-social-media{
+        width: 14rem;
+    }
+    .section-about-social-media-logo{
+        width: 2rem;
+        row-gap: -1rem;
+    }
+    .section-about-download-device{
+        width: 10rem;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+    .section-about-Quick-Links{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-about{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-Responsibility{
+        width: 100%;
+        height: 4rem;
+    }
+    .about-head-text{
+        align-self: center;
+    }
+}  
+
+@media screen and (max-width:376px) {
+    .hero-sec{
+        margin-top: 12rem;
+        column-gap: 4rem;
+    }
+    .hero-sec-name{
+        margin-left: -6rem;
+    }
+    .hero-sec-but{
+        width: 10rem;
+        text-align: center;
+        margin-top: 2rem;
+        margin-right: -4rem;
+    }
+    .section-1{
+        margin: 3rem 2rem;
+        height: 50rem;
+        flex-wrap: wrap;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 1rem 4rem 10rem;
+    }
+    .section-2{
+        margin: 4rem 0rem 2rem 0rem;
+        height: 65rem;
+        row-gap: 0;
+    }
+    .section-2-in{
+        margin-top: -8rem;
+        margin-left: -2rem;
+    }
+    .section-3{
+        margin: 2rem 0;
+        height: 75rem;
+        width: 100%;
+    }
+    .section-3-up{
+        margin-left: 0;
+    }
+    .section-3-down{
+        flex-wrap: wrap;
+        height: 60rem;
+        margin-bottom: 20rem;
+    }
+    .section-3-card{
+       margin-top: 2rem;
+       margin-left: 1rem;
+       width: 25rem;
+
+    }
+    .section-4{
+        height: 65rem;
+        margin-top: 2rem;
+    }
+    .section-4-up{
+        margin: 0 2rem 0 3rem;
+    }
+   
+    .section-4-down{
+        margin: 4rem 2rem 0;
+        height: 38rem;
+        width: 28rem;
+    }
+    .section-4-down button{
+        margin: 9rem 0 2rem 5rem;
+    }
+    .section-4-up a{
+        margin: 9rem 0 0 7rem;
+    }
+
+    .section-about{
+       
+        height: 35rem;
+       
+    }
+    .section-about-in{
+        
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 0;
+        height: 30rem;
+        margin-top: -3rem;
+    }
+    .section-about-in label{
+        font-size: 1.1rem;
+        margin-right: 1rem;
+    }
+    .about-head-text{
+        font-size: 1.1rem;
+        width: 20rem;
+    }
+    .section-about-logo{
+        height: 3rem;
+        width: 100%;
+    }
+    .section-about-logo img{
+        width: 3rem;
+    }
+    .section-about-social-media{
+        width: 14rem;
+    }
+    .section-about-social-media-logo{
+        width: 2rem;
+        row-gap: -1rem;
+    }
+    .section-about-download-device{
+        width: 7rem;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+    .section-about-Quick-Links{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-about{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-Responsibility{
+        width: 100%;
+        height: 4rem;
+    }
+    .about-head-text{
+        align-self: center;
+    }
+}  
+
+
+@media screen and (max-width:321px) {
+    .hero-sec{
+        margin-top: 12rem;
+        column-gap: 4rem;
+    }
+    .hero-sec-name{
+        margin-left: -6rem;
+    }
+    .hero-sec-but{
+        width: 10rem;
+        text-align: center;
+        margin-top: 2rem;
+        margin-right: -7rem;
+    }
+    .section-1{
+        margin: 3rem 2rem;
+        height: 50rem;
+        flex-wrap: wrap;
+    }
+    .section-1-but{
+        width: 15rem;
+        margin: 0 1rem 4rem 10rem;
+    }
+    .section-2{
+        margin: 4rem 0rem 2rem 0rem;
+        height: 65rem;
+        row-gap: 0;
+    }
+    .section-2-in{
+        margin-top: -8rem;
+        margin-left: -3rem;
+    }
+    .section-3{
+        margin: 2rem 0;
+        height: 75rem;
+        width: 100%;
+    }
+    .section-3-up{
+        margin-left: 0;
+    }
+    .section-3-down{
+        flex-wrap: wrap;
+        height: 60rem;
+        margin-bottom: 20rem;
+    }
+    .section-3-card{
+       margin-top: 2rem;
+       margin-left: 2rem;
+       width: 25rem;
+
+    }
+    .section-4{
+        height: 65rem;
+        margin-top: 2rem;
+    }
+    .section-4-up{
+        margin: 0 2rem 0 3rem;
+    }
+   
+    .section-4-down{
+        margin: 4rem 2rem 0;
+        height: 38rem;
+        width: 28rem;
+    }
+    .section-4-down button{
+        margin: 9rem 0 2rem 5rem;
+    }
+    .section-4-up a{
+        margin: 9rem 0 0 7rem;
+    }
+
+    .section-about{
+       
+        height: 35rem;
+       
+    }
+    .section-about-in{
+        
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 0;
+        height: 30rem;
+        margin-top: -3rem;
+    }
+    .section-about-in label{
+        font-size: 1.1rem;
+        margin-right: 1rem;
+    }
+    .about-head-text{
+        font-size: 1.1rem;
+        width: 20rem;
+    }
+    .section-about-logo{
+        height: 3rem;
+        width: 100%;
+    }
+    .section-about-logo img{
+        width: 3rem;
+    }
+    .section-about-social-media{
+        width: 14rem;
+        height: 5rem;
+    }
+    .section-about-social-media-logo{
+        width: 1.5rem;
+        row-gap: -1rem;
+    }
+    .section-about-download-device{
+        width: 5rem;
+    }
+    .section-about-in ul li{
+        display: none;
+    }
+    .section-about-Quick-Links{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-about{
+        height: 4rem;
+        width: 100%;
+    }
+    .section-about-Responsibility{
+        width: 100%;
+        height: 4rem;
+    }
+    .about-head-text{
+        align-self: center;
+    }
+}  
+
+
+
+
+
