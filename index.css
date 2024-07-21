@@ -1261,10 +1261,14 @@
     .section-about-social-media{
         width: 14rem;
         height: 5rem;
+        margin-top: -2rem;
     }
     .section-about-social-media-logo{
         width: 1.5rem;
         row-gap: -1rem;
+    }
+    .section-about-download{
+        margin-top: -5rem;
     }
     .section-about-download-device{
         width: 4rem;
