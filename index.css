@@ -57,7 +57,7 @@
 .section-1-img{
     width: 12rem;
     height: 15rem;
-    background-image: url(../starB-img/Dashboard_banner_side_image1_2_60b8699215.png);
+    background-image: url(./starB-img/Dashboard_banner_side_image1_2_60b8699215.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@
     width: 11rem;
     height: 11rem;
     border-radius: 11rem;
-    background-image: url(../starB-img/Drinks.webp);
+    background-image: url(./starB-img/Drinks.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -236,7 +236,7 @@
     width: 11rem;
     height: 11rem;
     border-radius: 11rem;
-    background-image: url(../starB-img/Food.webp);
+    background-image: url(./starB-img/Food.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -250,7 +250,7 @@
     width: 11rem;
     height: 11rem;
     border-radius: 11rem;
-    background-image: url(../starB-img/Merchandise.webp);
+    background-image: url(./starB-img/Merchandise.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -264,7 +264,7 @@
     width: 11rem;
     height: 11rem;
     border-radius: 11rem;
-    background-image: url(../starB-img/CoffeeAtHome.webp);
+    background-image: url(./starB-img/CoffeeAtHome.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -278,7 +278,7 @@
     width: 11rem;
     height: 11rem;
     border-radius: 11rem;
-    background-image: url(../starB-img/ReadyToEat.webp);
+    background-image: url(./starB-img/ReadyToEat.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -356,7 +356,7 @@
 .section-3-card-img-1{
     width: 10rem;
     height: 10rem;
-    background-image: url(../starB-img/cappuccino.webp);
+    background-image: url(./starB-img/cappuccino.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -366,7 +366,7 @@
 .section-3-card-img-2{
     width: 10rem;
     height: 10rem;
-    background-image: url(../starB-img/signature-hot-choc.webp);
+    background-image: url(./starB-img/signature-hot-choc.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -376,7 +376,7 @@
 .section-3-card-img-3{
     width: 10rem;
     height: 10rem;
-    background-image: url(../starB-img/vanila-milkshake.webp);
+    background-image: url(./starB-img/vanila-milkshake.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -392,7 +392,7 @@
 .section-3-card-text-veg{
     width: 2rem;
     height: 2rem;
-    background-image: url(../starB-img/veg.svg);
+    background-image: url(./starB-img/veg.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -480,7 +480,7 @@
     margin: 0 8rem 0 8rem;
     height: 35rem;
     border-radius: 1rem;
-    background-image: url(../starB-img/coffeeBruwing.jpg);
+    background-image: url(./starB-img/coffeeBruwing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
