@@ -1232,7 +1232,7 @@
 
     .section-about{
        
-        height: 40rem;
+        height: 45rem;
        
     }
     .section-about-in{
@@ -1267,7 +1267,7 @@
         row-gap: -1rem;
     }
     .section-about-download-device{
-        width: 5rem;
+        width: 4rem;
     }
     .section-about-in ul li{
         display: none;
