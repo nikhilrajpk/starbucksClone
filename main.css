@@ -432,6 +432,7 @@ body{
     }
     .star-logo img{
         height: 4rem;
+        margin-top: -1rem;
 
     }
     .nav-bar{
@@ -451,7 +452,7 @@ body{
         margin-left: -29rem;
     }
     .head-user-logo{
-        margin-left: -28rem;
+        margin-left: -29rem;
         padding-top: 1.5rem;
         
     }
