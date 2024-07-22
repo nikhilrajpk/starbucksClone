@@ -1240,7 +1240,7 @@
         display: flex;
         flex-wrap: wrap;
         column-gap: 0;
-        height: 45rem;
+        height: 40rem;
         margin-top: -3rem;
     }
     .section-about-in label{
@@ -1268,7 +1268,7 @@
         row-gap: -1rem;
     }
     .section-about-download{
-        margin-top: -5rem;
+        margin-top: 0rem;
     }
     .section-about-download-device{
         width: 4rem;
